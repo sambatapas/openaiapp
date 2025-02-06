@@ -1,4 +1,5 @@
 import streamlit as st
+st.image("https://s7d1.scene7.com/is/image/dmqualcommprod/getting-personal-with-on-device-ai?$QC_Responsive$&fmt=png-alpha&wid=814", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
